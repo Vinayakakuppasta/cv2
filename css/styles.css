@@ -1,0 +1,90 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family:"Merriweather";
+  font-size:120%;
+}
+h1{
+  margin:100px;
+  font-family:"Sacramento";
+  font-size: 8rem;
+  margin:50px auto 0 auto;
+}
+.skill-row{
+  margin:0 300px;
+  margin-right: 200px;
+  border:center;
+  text-align: left;
+}
+h2{
+  margin:0;
+  font-family: "Sacramento"
+  font-size:2.5rem;
+  font-weight: normal;
+  line-height: 2;
+}
+h3{
+}
+.top-container{
+  background-color:powderblue;
+  position: relative;
+  padding:100px;
+}
+.middle-container{
+
+}
+.bottom-container{
+text-align: center;
+text-shadow: 10px;
+background-color:powderblue;
+padding-bottom: 50px;
+padding-top: 20px;
+}
+.top-cloud{
+  position:absolute;
+  top:10px;
+  right:200px;
+  width:15%;
+}
+.bottom-cloud{
+  position:absolute;
+  top:250px;
+  left:70px;
+  width:15%;
+}
+.vinay-img{
+  width:15%;
+  margin:50px 0 0 0 ;
+}
+.sett{
+  width:9%;
+  float:left;
+  margin-right: 50px;
+
+}
+.webb{
+  width: 10%;
+  float:left;
+  margin-right: 50px;
+
+
+}
+.mount{
+  width:50%;
+}
+.cad-skill{
+  margin:-0 0 0 200px;
+  margin-top: 100px;
+
+}
+hr{
+
+  border-style:none;
+  border-top:dotted;
+  border color:grey;
+  border-width: 10px;
+  width:5%;
+}
+.contact-me{
+  margin: 10px 0 40px 0;
+}
